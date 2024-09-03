@@ -25,8 +25,6 @@ body {
     position: relative;
     width: 50vw; /* 너비를 뷰포트 너비의 50%로 설정 */
     height: 50vw; /* 높이를 너비와 동일하게 설정 */
-    max-width: 800px; /* 최대 너비 설정 */
-    max-height: 800px; /* 최대 높이 설정 */
     background-color: #fff;
     padding: 10px;
     border-radius: 10px;
