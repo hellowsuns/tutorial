@@ -44,7 +44,3 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("popup").style.display = "flex";
     showSlides(slideIndex);
 });
-
-document.getElementById("closePopup").addEventListener("click", function () {
-    document.getElementById("popup").style.display = "none";
-});
