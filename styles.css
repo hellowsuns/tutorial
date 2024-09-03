@@ -86,3 +86,6 @@ body {
     background-color: rgba(26, 15, 0, 0.8);
 }
 
+.close-popup {
+    display: none;
+}
